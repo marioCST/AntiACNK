@@ -1,0 +1,6 @@
+name: AntiACNK
+version: 1.0
+api: 1.0.13
+main: de.mariocst.antiacnk.AntiACNK
+author: marioCST
+description: Anti AutoClicker plugin for nukkit
