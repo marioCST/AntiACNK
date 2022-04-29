@@ -1,2 +1,15 @@
 # Project exclude paths
 /target/
+.idea/
+*.properties
+*.jar
+*.txt
+*.json
+*.dat
+*.dat_old
+*.dat_older
+*.mca
+*.ldb
+*.log
+*.gz
+*.log.gz
